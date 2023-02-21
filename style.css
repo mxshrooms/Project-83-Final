@@ -1,0 +1,25 @@
+#mycanvas {
+    border-width: 5px;
+    border-color: grey;
+    border-style: ridge;
+}
+body {
+    text-align:center;
+}
+button {
+    height:30px;
+    color:white;
+    font-weight: bold;
+    background-color: rgb(17, 153, 17);
+    border-color: green;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+input {
+    border-color: rgb(77, 77, 77);
+    height:25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+}
